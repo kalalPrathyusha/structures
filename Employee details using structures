@@ -16,8 +16,6 @@ int main()
      scanf("%d",&emp.empId);
     printf("Salary ?:");   
      scanf("%f",&emp.salary);
-     
-    /*print employee details*/
     printf("\nEntered detail is:");
     printf("Name: %s"   ,emp.name);
     printf("Id: %d"     ,emp.empId);
